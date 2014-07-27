@@ -1,0 +1,12 @@
+.container{
+  text-align: center;
+}
+
+.main{
+  display: block;
+}
+
+#bio{
+  font-weight: bold;
+  font-size: 30px;
+}
