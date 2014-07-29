@@ -7,6 +7,11 @@
   height: 40px;
 }
 
+#photo{
+  width: 60px;
+  height: 60px;
+}
+
 #bio{
   font-weight: bold;
   font-size: 30px;
